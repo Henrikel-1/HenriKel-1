@@ -4,7 +4,7 @@
 - Sou um desenvolvedor Back-end
 - Em meu tempo livre, sempre busco mais conhecimento
 
-📧 [Gmail](mailto:seuemail@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
+📧 [Gmail](mailto:keldsonh@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/keldson-henriques-179b1b370/)
 
 ---
 

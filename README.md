@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá 👋, me chamo Keldson Henriques
 
-<!--
-**Henrikel-1/HenriKel-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Análise e Desenvolvimento de Sistemas (IFPB)
+- Sou um desenvolvedor Back-end
+- Em meu tempo livre, sempre busco mais conhecimento
 
-Here are some ideas to get you started:
+📧 [Gmail](mailto:seuemail@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologias que utilizo:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## Keldson GitHub stats
+![Keldson GitHub stats](https://github-readme-stats.vercel.app/api?username=keldsonhenriques&show_icons=true&theme=radical)
